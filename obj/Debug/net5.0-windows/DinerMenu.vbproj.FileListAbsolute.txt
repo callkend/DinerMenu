@@ -1,0 +1,17 @@
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.exe
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.deps.json
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.runtimeconfig.json
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.runtimeconfig.dev.json
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.dll
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\ref\DinerMenu.dll
+C:\Users\callk\source\repos\Diner Menu\bin\Debug\net5.0-windows\DinerMenu.pdb
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\Diner_Menu.DinerMenuForm.resources
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.vbproj.GenerateResource.cache
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.AssemblyInfoInputs.cache
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.AssemblyInfo.vb
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.vbproj.CoreCompileInputs.cache
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.dll
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\ref\DinerMenu.dll
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.pdb
+C:\Users\callk\source\repos\Diner Menu\obj\Debug\net5.0-windows\DinerMenu.genruntimeconfig.cache
